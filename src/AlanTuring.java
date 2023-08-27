@@ -13,7 +13,6 @@ public class AlanTuring {
  * @since Version 1.0
  *
  */
-
-            System.out.println("Alan Turing");
+System.out.println("Alan Turing");
         }
     }

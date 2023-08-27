@@ -14,7 +14,6 @@ public class JurassicPark {
          * @since Version 1.0
          *
          */
-
         String Ian = "\"Life, uh,\nfinds a way.\n—Ian Malcolm\"";
         System.out.println(Ian);
     }

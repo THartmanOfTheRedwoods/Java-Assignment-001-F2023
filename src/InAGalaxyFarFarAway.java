@@ -13,7 +13,6 @@ public class InAGalaxyFarFarAway {
          * @since Version 1.0
          *
          */
-
         System.out.println("A long time ago");
         System.out.println("in a galaxy far,");
         System.out.println("far away....");
