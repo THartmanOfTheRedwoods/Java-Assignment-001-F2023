@@ -5,5 +5,14 @@ public class AlanTuring {
      **/
     public static void main(String[] args) {
         // Write your program here
+/**
+ *
+ * @author Trevor Hartman
+ * @author Matthew Miller
+ *
+ * @since Version 1.0
+ *
+ */
+System.out.println("Alan Turing");
+        }
     }
-}
