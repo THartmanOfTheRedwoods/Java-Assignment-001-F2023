@@ -5,5 +5,17 @@ public class InAGalaxyFarFarAway {
      **/
     public static void main(String[] args) {
         // Write your program here
+        /**
+         *
+         * @author Trevor Hartman
+         * @author Matthew Miller
+         *
+         * @since Version 1.0
+         *
+         */
+
+        System.out.println("A long time ago");
+        System.out.println("in a galaxy far,");
+        System.out.println("far away....");
     }
 }
