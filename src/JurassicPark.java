@@ -1,5 +1,5 @@
 /*Javadoc*/
-ublic class JurassicPark {
+public class JurassicPark {
     /**
      * Prints famous Jurasic Park quote to console with only 1 sout statement.
      * @param args Command line arguments [The source file path, The target file path, ...]
