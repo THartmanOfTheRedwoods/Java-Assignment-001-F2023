@@ -1,3 +1,11 @@
+/**
+ *
+ * @author Trevor Hartman
+ * @author <replace with Sylvan Coleman>
+ *
+ * @since Version 1.0
+ *
+ */
 public class JurassicPark {
     /**
      * Prints famous Jurasic Park quote to console with only 1 sout statement.
@@ -5,5 +13,6 @@ public class JurassicPark {
      **/
     public static void main(String[] args) {
         // Write your program here
+        System.out.println("\"Life, uh,");System.out.println("finds a way.\""); System.out.print("-Ian Malcolm");
     }
 }
