@@ -10,6 +10,8 @@ The output of the program should be:
 ```
 Alan Turing
 ```
+1. This is my answer
+2. This is my second answer
 
 ### Part 2 - InAGalaxyFarFarAway.java
 * Modify the program so that it will print the following text:
