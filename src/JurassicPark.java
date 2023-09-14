@@ -1,7 +1,7 @@
 /**
  *
  * @author Trevor Hartman
- * @author <REPLACE with YOUR NAME>
+ * @author Cassandra Portlock
  *
  * @since Version 1.0
  *
