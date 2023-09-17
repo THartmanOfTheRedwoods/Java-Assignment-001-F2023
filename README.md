@@ -4,10 +4,11 @@
 
 ### Part 1 - AlanTuring.java
 The line "// Write your program here" is a single line comment, and the Java compiler will ignore it.
-* Add your code below the comment that prints the string "Alan Turing" and run the program.
-
+* Add your code below the comment that prints the string "Alan Turing" and run the program
+*
+* 
 The output of the program should be:
-```
+```System.out.printin("Alan Turing");
 Alan Turing
 ```
 
