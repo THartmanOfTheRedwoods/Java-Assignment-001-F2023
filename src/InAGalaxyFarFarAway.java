@@ -1,3 +1,11 @@
+/**
+*
+* @author Trevor Hartman
+* @author Olivia McKittrick
+*
+* @since Version 1.0
+*
+*/
 public class InAGalaxyFarFarAway {
     /**
      * Prints a famous Star Wars intro to the console with 3 souts.
