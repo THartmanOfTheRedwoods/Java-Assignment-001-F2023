@@ -1,3 +1,11 @@
+/**
+*
+* @author Trevor Hartman
+* @author Olivia McKittrick
+*
+* @since Version 1.0
+*
+*/
 public class AlanTuring {
     /**
      * Prints Alan Turing to the console
