@@ -4,6 +4,8 @@ public class InAGalaxyFarFarAway {
      * @param args Command line arguments [The source file path, The target file path, ...]
      **/
     public static void main(String[] args) {
-        // Write your program here
+    System.out.println("A long time ago"); 
+    System.out.print.ln("in a galaxy far,");
+    System.out.print("far away....");
     }
 }
