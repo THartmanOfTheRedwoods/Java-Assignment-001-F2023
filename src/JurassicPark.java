@@ -4,6 +4,6 @@ public class JurassicPark {
      * @param args Command line arguments [The source file path, The target file path, ...]
      **/
     public static void main(String[] args) {
-        // Write your program here
+    System.out.println("Life uh,\nFinds a way.\n- Ian Malcolm.");
     }
 }
