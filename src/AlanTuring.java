@@ -12,6 +12,6 @@ public class AlanTuring {
      * @param args Command line arguments [The source file path, The target file path, ...]
      **/
     public static void main(String[] args) {
-    System.out.println("AlanTuring");
+        System.out.println("AlanTuring");
     }
 }

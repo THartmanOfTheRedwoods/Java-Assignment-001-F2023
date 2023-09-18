@@ -13,7 +13,7 @@ public class InAGalaxyFarFarAway {
      **/
     public static void main(String[] args) {
     System.out.println("A long time ago"); 
-    System.out.print.ln("in a galaxy far,");
+    System.out.println("in a galaxy far,");
     System.out.print("far away....");
     }
 }
