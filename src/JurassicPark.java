@@ -1,3 +1,11 @@
+/**
+*
+* @author Trevor Hartman
+* @author Olivia McKittrick
+*
+* @since Version 1.0
+*
+*/
 public class JurassicPark {
     /**
      * Prints famous Jurasic Park quote to console with only 1 sout statement.
